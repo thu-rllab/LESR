@@ -1,0 +1,12 @@
+gymnasium==0.29.1
+libtmux==0.25.0
+numpy==1.24.4
+openai==1.10.0
+pandas==2.0.3
+psutil==5.9.6
+pynvml==11.5.0
+Requests==2.31.0
+torch==1.8.1+cu111
+gymnasium==0.29.1
+mujoco_py==2.1.2.14
+gymnasium_robotics==1.2.3

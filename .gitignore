@@ -1,0 +1,12 @@
+__pycache__/
+models/*
+results/*
+LESR-resources/*
+!models/.gitkeep
+!results/.gitkeep
+MUJOCO_LOG.TXT
+!LESR-resources/run-v0*
+!LESR-resources/LESR-best-result
+!LESR-resources/mujoco_observation_space.xlsx
+!LESR-resources/walker_jump.gif 
+!LESR-resources/walker_split_legs.gif 
