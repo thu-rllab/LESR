@@ -50,12 +50,10 @@ We abstain from any iterations or feedback, training solely on the $\mathcal{F},
 <div align="center">
     <figure style="display:inline-block; margin-right:20px;">
         <img src="LESR-resources/walker_jump.gif" alt="walker_jump">
-        <br>
         <figcaption>The 'Walker Jump' task</figcaption>
     </figure>
     <figure style="display:inline-block;">
         <img src="LESR-resources/walker_split_legs.gif" alt="walker_split_legs">
-        <br>
         <figcaption>The 'Walker Split Legs' task</figcaption>
     </figure>
 </div>
