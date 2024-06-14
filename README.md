@@ -157,4 +157,10 @@ def intrinsic_reward(updated_s):
 ```
 
 ### About
-
+```
+@inproceedings{wangllm,
+  title={LLM-Empowered State Representation for Reinforcement Learning},
+  author={Wang, Boyuan and Qu, Yun and Jiang, Yuhang and Shao, Jianzhun and Liu, Chang and Yang, Wenming and Ji, Xiangyang},
+  booktitle={Forty-first International Conference on Machine Learning}
+}
+```
