@@ -155,3 +155,6 @@ def intrinsic_reward(updated_s):
     
     return intrinsic_reward
 ```
+
+### About
+
